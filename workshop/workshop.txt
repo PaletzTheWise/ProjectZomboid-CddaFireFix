@@ -1,5 +1,5 @@
 version=1
-id=0
+id=3575333119
 title=[B42] CDDA house fire fix
 description=As of PZ build 42.12.0, the CDDA starting house is not being set on fire.
 description=This mod fixes it.
