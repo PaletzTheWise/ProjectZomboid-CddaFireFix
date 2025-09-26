@@ -1,0 +1,8 @@
+name=[B42] CDDA House Fire Fix
+id=CDDA_fire_fix
+description=As of PZ build 42.12.0, the CDDA starting house is not being set on fire. This mod fixes it.
+author=Paletz
+poster=poster.png
+modversion=1.0.0
+icon=icon.png
+versionMin=42.12.0
